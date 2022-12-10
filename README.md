@@ -10,6 +10,10 @@ npm install react-native-truecaller-sdk
 
 ## Android Setup
 
+Obtain the app key
+
+Please refer to the documentation here(https://docs.truecaller.com/truecaller-sdk/android/generating-app-key) for generating the keys. Once done please refer here(https://docs.truecaller.com/truecaller-sdk/android/integrating-with-your-app/app-key-configuration) to configure the key with your app.
+
 Create a new string to add partner key
 ```sh
 <string name="partner_key"><Your Partner Key></string>
